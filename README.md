@@ -1,16 +1,22 @@
-## Hi there 👋
+# Luca Filippetti 👋
 
-<!--
-**LucaFilippetti99/LucaFilippetti99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Computer Engineer | AR/VR Specialist**  
+Torino, Italy | [LinkedIn](https://linkedin.com/in/lucafilippetti) | [CV](link-al-tuo-CV.pdf) | filippetti99.lf@gmail.com
 
-Here are some ideas to get you started:
+![ARBoard](icona-ar-badge) **Research Fellow @ ARBoard** (Politecnico di Torino)  
+- AR per debugging PCB su smart glasses (Unity, C#, AR Foundation, OpenCV, ML).  
+- **Award**: University Fair Award - Best Demo @ DATE 2025 Conference.  
+- Selezionato per PoC Launchpad Fondazione Compagnia di San Paolo.[file:1]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills Principali
+- **AR/VR**: Unity 3D, MRTK3, XReal SDK, Vuforia, Blender  
+- **Backend/Dev**: C#, Python, OpenCV, Machine Learning, Git  
+- **Altro**: Computer Vision, Image Processing, Software Engineering  
+
+## Progetti in Evidenza
+- [ARBoard](link-repo-se-pubblico) - AR PCB Debugging Platform  
+- [La Porta](link-repo) - Psychedelic VR Experience (Oculus)  
+- [Explorer](link-repo) - AR Space Exploration Animation  
+
+MSc Computer Engineering (Graphics & Multimedia) @ Politecnico di Torino (107/110).  
+Disponibile da Giugno 2026. Open to AR/VR collabs! 🚀
