@@ -1,7 +1,7 @@
 # Luca Filippetti 👋
 
 **Computer Engineer | AR/VR Specialist**  
-Torino, Italy | [LinkedIn](https://linkedin.com/in/lucafilippetti) | [CV](link-al-tuo-CV.pdf) | filippetti99.lf@gmail.com
+Torino, Italy | [LinkedIn](www.linkedin.com/in/luca-filippetti-92a99a1a4) | [CV](CV.pdf) | filippetti99.lf@gmail.com
 
 ![ARBoard](icona-ar-badge) **Research Fellow @ ARBoard** (Politecnico di Torino)  
 - AR per debugging PCB su smart glasses (Unity, C#, AR Foundation, OpenCV, ML).  
