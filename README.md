@@ -10,7 +10,7 @@
 - [Paper](https://ieeexplore.ieee.org/document/11327760)
 
 ## 🛠️ Skills Principali
-- **AR/VR**: Unity 3D, MRTK3, XReal SDK, Vuforia, Blender  
+- **AR/VR**: Unity, MRTK3, XReal SDK, Blender  
 - **Backend/Dev**: C#, Python, OpenCV, Machine Learning, Git  
 - **Altro**: Computer Vision, Image Processing, Software Engineering  
 
