@@ -10,7 +10,7 @@
 - **Publication**: 2025 IEEE International Symposium on Emerging Metaverse (ISEMV): [document](https://ieeexplore.ieee.org/document/11327760).
 
 ## 🛠️ Skills Principali
-- **AR/VR**: Unity, MRTK3, XReal SDK, Blender  
+- **AR/VR**: Unity, Blender  
 - **Backend/Dev**: C#, Python, OpenCV, Machine Learning, Git  
 - **Other**: Computer Vision, Image Processing, Software Engineering  
 
