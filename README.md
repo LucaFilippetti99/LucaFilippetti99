@@ -11,7 +11,7 @@
 
 ## 🛠️ Skills Principali
 - **AR/VR**: Unity, Blender  
-- **Backend/Dev**: C#, Python, OpenCV, Machine Learning, Git  
+- **Dev**: C#, Python, OpenCV, Machine Learning, Git  
 - **Other**: Computer Vision, Image Processing, Software Engineering  
 
 MSc Computer Engineering (Graphics & Multimedia) @ Politecnico di Torino.  
