@@ -9,7 +9,7 @@
 - **Recognition**: Selected for the PoC Launchpad by Fondazione Compagnia di San Paolo.
 - **Publication**: 2025 IEEE International Symposium on Emerging Metaverse (ISEMV): [document](https://ieeexplore.ieee.org/document/11327760).
 
-## 🛠️ Skills Principali
+## 🛠️ Skills 
 - **AR/VR**: Unity, Blender  
 - **Dev**: C#, Python, OpenCV, Machine Learning, Git  
 - **Other**: Computer Vision, Image Processing, Software Engineering  
