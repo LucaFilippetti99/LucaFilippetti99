@@ -1,6 +1,6 @@
 # Luca Filippetti 👋
 
-**Software Engineer | Frontend (React, TypeScript) | Logistics Product (Reply)**  
+**Software Engineer**  
 🌐 [LinkedIn](https://linkedin.com/in/luca-filippetti-92a99a1a4) | 📄 [CV](CV.pdf) | ✉️ filippetti99.lf@gmail.com | 📍 Turin, Italy
 
 ### 💼 Software Engineer @ Logistics Product S.r.l. (Reply Group)
